@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/freelancer-robiul/freelancer-robiul/main/github-profile-banner.png" alt="Banner" />
+</p>
+
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://github.com/freelancer-robiul">
