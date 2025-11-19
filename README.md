@@ -53,9 +53,10 @@ Currently, I’m working on a few live projects, enhancing my skills in React Na
 ## 📌 Pinned Projects  
 Here are three of my recent works:
 
-- [my-portfolio](https://github.com/freelancer-robiul/my-portfolio) — A personal website built using HTML/CSS/JavaScript, showcasing my projects and contact information. Deployed at https://freelancer-robiul.github.io.  
+- [my-portfolio](https://github.com/freelancer-robiul/green-earth.git) (freelancer-robiul.github.io/green-earth/)— Green Earth built using HTML/CSS/JavaScript, showcasing my projects and contact information. Deployed at https://freelancer-robiul.github.io.  
 - [study-mate-b12-a10-client](https://github.com/freelancer-robiul/study-mate-b12-a10-client) — Frontend of a student study portal created with React and Tailwind CSS. Works with corresponding server API.  
 - [study-mate-b12-a10-server](https://github.com/freelancer-robiul/study-mate-b12-a10-server) — Backend for the study portal using Node.js, Express and MongoDB. Features user authentication, CRUD operations, RESTful design.
+- [payoo-mobile-app](https://freelancer-robiul.github.io/payoo-mobile-app/)
 
 ---
 
